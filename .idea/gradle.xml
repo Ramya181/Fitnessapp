@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -8,8 +9,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="/home/scm-studs/w9595858/AndroidStudioProjects/MyApplication" />
-            <option value="/home/scm-studs/w9595858/AndroidStudioProjects/MyApplication/app" />
+            <option value="/home/scm-studs/w9595858/AndroidStudioProjects/Fitnessapp" />
+            <option value="/home/scm-studs/w9595858/AndroidStudioProjects/Fitnessapp/app" />
           </set>
         </option>
       </GradleProjectSettings>
